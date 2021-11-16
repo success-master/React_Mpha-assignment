@@ -2,13 +2,26 @@
     text-align: center;
 }
 
-.gender-select {
+.container {
+    margin-bottom: 100px;
+}
+
+
+/* .gender-select {
     margin: auto;
     padding-bottom: 50px;
-}
+} */
 
 .clear-button {
     margin-left: 20px;
+}
+
+.resultTable table,
+th,
+td {
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    border-collapse: collapse;
 }
 
 .App-logo {
